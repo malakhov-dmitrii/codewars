@@ -1,4 +1,4 @@
-const isOneEditDistance = require("./isOneEditDistance");
+const isOneEditDistance = require("../isOneEditDistance");
 
 test("should ", () => {
   const r = isOneEditDistance("ab", "acb");

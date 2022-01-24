@@ -1,0 +1,9 @@
+[  
+'GALAXY-42/SYSTEM/PLANET:{}',  
+'GALAXY-42/SYSTEM/PLANET:{Code}',  
+'GALAXY-42/THE-SOLAR-SYSTEM/PLANET:{Code}',  
+'GALAXY-42/LANGUAGE/JS:{Code}',  
+'GALAXY-42/LANGUAGE/PYTHON:{Code}',  
+'GALAXY-42/SYSTEM/PLANET:{Simple text... <spam>null == undefined</spam>}',  
+'GALAXY-42/SYSTEM/PLANET:{<spam>typeof null</spam><spam>typeof typeof null</spam>}'  
+]
